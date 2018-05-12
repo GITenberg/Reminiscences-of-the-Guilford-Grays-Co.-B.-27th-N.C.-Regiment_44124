@@ -1,0 +1,36 @@
+_repo: Reminiscences-of-the-Guilford-Grays-Co.-B.-27th-N.C.-Regiment_44124
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44124-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sloan, John A. (John Alexander)
+    alias: Sloan, John Alexander
+    birthdate: 1839
+    deathdate: 1886
+    gutenberg_agent_id: '42592'
+    url: http://www.gutenberg.org/2009/agents/42592
+description: ''
+gutenberg_issued: '2013-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44124'
+  lccn: '02017605'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'North Carolina -- History -- Civil War, 1861-1865 -- Personal narratives,
+  Confederate'
+- !lcsh 'Sloan, John A. (John Alexander), 1839-1886'
+- !lcsh 'Soldiers -- North Carolina -- Biography'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcsh 'Confederate States of America. Army. North Carolina Infantry Regiment, 27th
+  -- Biography'
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives,
+  Confederate'
+title: Reminiscences of the Guilford Grays, Co. B., 27th N.C. Regiment
+url: http://www.gutenberg.org/ebooks/44124
