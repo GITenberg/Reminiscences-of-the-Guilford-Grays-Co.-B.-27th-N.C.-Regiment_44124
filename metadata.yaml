@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '42592'
     url: http://www.gutenberg.org/2009/agents/42592
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44124#Reminiscences-of-the-Guilford-Grays-Co.-B.-27th-N.C.-Regiment
 gutenberg_issued: '2013-11-07'
 gutenberg_type: Text
 identifiers:
